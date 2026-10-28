@@ -161,7 +161,7 @@ def readme(d: dict) -> str:
 
 ## 许可
 
-数据以 [CC BY 4.0](LICENSE) 发布，转载或引用请注明来源“AI价网（aiprice.club）”并附链接。
+数据以 [CC BY 4.0](LICENSE) 发布，可以自由转载和商用，但须注明来源“AI价网（aiprice.club）”并附 https://aiprice.club/ 链接。`scripts/` 下的脚本以 [MIT](scripts/LICENSE) 发布。
 """
 
 

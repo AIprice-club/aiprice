@@ -71,7 +71,7 @@
 | [GPT Go](https://aiprice.club/official-price/gpt-go) | $8.00（约 ¥53） | 埃及官网 EGP 220.00（约 ¥26） | 233 |
 | [GPT Plus](https://aiprice.club/official-price/gpt-plus) | $20.00（约 ¥134） | 菲律宾 App Store ₱ 999.00（约 ¥104） | 233 |
 | [GPT Pro 100 (GPT Pro 5x)](https://aiprice.club/official-price/gpt-pro-100) | $100.00（约 ¥668） | 墨西哥官网 MX$1,700.00（约 ¥611） | 233 |
-| [GPT Pro 200 (GPT Pro 20x)](https://aiprice.club/official-price/gpt-pro-200) | $200.00（约 ¥1337） | 菲律宾 App Store ₱ 9,990.00（约 ¥1044） | 233 |
+| [GPT Pro 200 (GPT Pro 20x)](https://aiprice.club/official-price/gpt-pro-200) | $200.00（约 ¥1337） | 菲律宾 App Store ₱ 9,990.00（约 ¥1043） | 233 |
 | [GPT Pro 500](https://aiprice.club/official-price/gpt-pro-500) | $500.00（约 ¥3342） | 墨西哥官网 MX$8,500.00（约 ¥3056） | 233 |
 | [Claude Pro](https://aiprice.club/official-price/claude-pro) | $20.00（约 ¥134） | 巴基斯坦 App Store Rs 4,900.00（约 ¥118） | 237 |
 | [Claude Max 5x](https://aiprice.club/official-price/claude-max-5x) | $100.00（约 ¥668） | 加拿大官网 CA$140.00（约 ¥668） | 237 |
@@ -79,11 +79,11 @@
 | [Gemini Plus](https://aiprice.club/official-price/gemini-plus) | $4.99（约 ¥33） | 玻利维亚官网 BOB 34.99（约 ¥20） | 188 |
 | [Gemini Pro](https://aiprice.club/official-price/gemini-pro) | $19.99（约 ¥134） | 土耳其 App Store ₺539,99（约 ¥72） | 195 |
 | [Gemini Ultra 5x](https://aiprice.club/official-price/gemini-ultra-5x) | $99.99（约 ¥668） | 土耳其官网 TRY 1,479.99（约 ¥199） | 150 |
-| [Gemini Ultra 20x](https://aiprice.club/official-price/gemini-ultra-20x) | $199.99（约 ¥1337） | 玻利维亚官网 BOB 1,399.99（约 ¥790） | 195 |
-| [SuperGrok Lite](https://aiprice.club/official-price/supergrok-lite) | $10.00（约 ¥67） | 埃及 App Store EGP 499.99（约 ¥59） | 159 |
-| [SuperGrok](https://aiprice.club/official-price/supergrok) | $30.00（约 ¥201） | 土耳其 App Store ₺1.299,99（约 ¥175） | 157 |
-| [SuperGrok Plus](https://aiprice.club/official-price/supergrok-plus) | $100.00（约 ¥668） | 埃及 App Store EGP 4,999.99（约 ¥594） | 160 |
-| [SuperGrok Heavy](https://aiprice.club/official-price/supergrok-heavy) | $300.00（约 ¥2005） | 菲律宾 App Store ₱ 14,990.00（约 ¥1566） | 134 |
+| [Gemini Ultra 20x](https://aiprice.club/official-price/gemini-ultra-20x) | $199.99（约 ¥1336） | 玻利维亚官网 BOB 1,399.99（约 ¥789） | 195 |
+| [SuperGrok Lite](https://aiprice.club/official-price/supergrok-lite) | $10.00（约 ¥67） | 埃及 App Store EGP 499.99（约 ¥60） | 159 |
+| [SuperGrok](https://aiprice.club/official-price/supergrok) | $30.00（约 ¥200） | 土耳其 App Store ₺1.299,99（约 ¥174） | 157 |
+| [SuperGrok Plus](https://aiprice.club/official-price/supergrok-plus) | $100.00（约 ¥668） | 埃及 App Store EGP 4,999.99（约 ¥596） | 160 |
+| [SuperGrok Heavy](https://aiprice.club/official-price/supergrok-heavy) | $300.00（约 ¥2004） | 菲律宾 App Store ₱ 14,990.00（约 ¥1565） | 134 |
 
 更多：[价格变动](https://aiprice.club/price-changes) · [大模型 API 官方价格对比](https://aiprice.club/llm-gateway/official-api-price) · [API 中转站价格榜](https://aiprice.club/llm-gateway) · [AI 订阅术语表](https://aiprice.club/glossary)
 
@@ -106,4 +106,4 @@
 
 ## 许可
 
-数据以 [CC BY 4.0](LICENSE) 发布，转载或引用请注明来源“AI价网（aiprice.club）”并附链接。
+数据以 [CC BY 4.0](LICENSE) 发布，可以自由转载和商用，但须注明来源“AI价网（aiprice.club）”并附 https://aiprice.club/ 链接。`scripts/` 下的脚本以 [MIT](scripts/LICENSE) 发布。
