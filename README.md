@@ -1,93 +1,93 @@
 # AI价网：卡网比价与 AI 价格比较数据
 
-[AI价网（aiprice.club）](https://aiprice.club/)收录 1,899 家卡网店铺、53,907 条报价，每小时采集 ChatGPT Plus、Claude Pro/Max、Gemini、Grok 等 AI 账号与订阅的卡网价格和库存，并对比官方订阅在两百多个国家和地区的价格。本仓库每天同步一次汇总数据。
+[AI价网（aiprice.club）](https://aiprice.club/)收录 1,938 家卡网店铺、59,123 条报价，每小时采集 ChatGPT Plus、Claude Pro/Max、Gemini、Grok 等 AI 账号与订阅的卡网价格和库存，并对比官方订阅在两百多个国家和地区的价格。本仓库每天同步一次汇总数据。
 
-数据时间：2026-11-27 17:24（北京时间）。实时价格见 [aiprice.club](https://aiprice.club/)。
+数据时间：2026-11-28 16:55（北京时间）。实时价格见 [aiprice.club](https://aiprice.club/)。
 
 ## 为什么用 AI价网
 
-- **收录最多**：1,899 家卡网店铺、53,907 条报价，同类卡网比价站收录的店铺都在一千家以内。
+- **收录最多**：1,938 家卡网店铺、59,123 条报价，同类卡网比价站收录的店铺都在一千家以内。
 - **每小时更新**：价格和库存每小时采集一次，最低价只算有货的报价。
 - **同款归到一起**：报价按 GPT Plus、Claude Max 5x 等标准商品归类，一眼看到全网最低价；同一款商品多家在卖时折叠显示价格区间。
 - **看清买的是什么**：每条报价标出成品号、代充、卡密、车位，以及质保天数。
 - **三种渠道一起比**：卡网价、AI 官方订阅在两百多个国家和地区的价格、4000 多家 API 中转站的模型价格。
 - **只比价不卖货**：不参与交易，最终价格以商家页面为准。
 
-## 卡网最低价（2026-11-27）
+## 卡网最低价（2026-11-28）
 
 有货商品的最低价。点商品名看全部店铺的报价、库存和交付方式。
 
 | 商品 | 最低价 | 店铺数 | 有货报价 |
 | --- | --- | --- | --- |
-| [GPT Plus](https://aiprice.club/market/category/gpt-plus) | ¥18.20 | 1229 | 7317 |
-| [接码](https://aiprice.club/market/category/phone-verification) | ¥0.01 | 947 | 6125 |
-| [中转站](https://aiprice.club/market/category/api-gateway) | ¥7.56 | 894 | 4580 |
-| [GPT Pro 100](https://aiprice.club/market/category/gpt-pro-100) | ¥380.00 | 912 | 2860 |
-| [GPT Pro 200](https://aiprice.club/market/category/gpt-pro-200) | ¥595.00 | 900 | 2746 |
-| [Gmail](https://aiprice.club/market/category/gmail) | ¥0.02 | 555 | 1825 |
-| [GPT Team](https://aiprice.club/market/category/gpt-team) | ¥8.80 | 458 | 1244 |
-| [Gemini Pro](https://aiprice.club/market/category/gemini-pro) | ¥6.20 | 587 | 1107 |
-| [Outlook](https://aiprice.club/market/category/outlook) | ¥0.02 | 388 | 1469 |
-| [GPT Team 5x](https://aiprice.club/market/category/gpt-team-5x) | ¥16.00 | 252 | 542 |
-| [Muse](https://aiprice.club/market/category/muse) | ¥0.02 | 333 | 795 |
-| [GPT](https://aiprice.club/market/category/gpt) | ¥6.80 | 347 | 1075 |
-| [GPT Free](https://aiprice.club/market/category/gpt-free) | ¥0.03 | 319 | 936 |
-| [KYC](https://aiprice.club/market/category/kyc) | ¥55.00 | 239 | 844 |
-| [GPT Pro 500](https://aiprice.club/market/category/gpt-pro-500) | ¥1623.75 | 367 | 866 |
-| [iCloud 邮箱](https://aiprice.club/market/category/icloud) | ¥0.02 | 303 | 666 |
-| [Claude Pro](https://aiprice.club/market/category/claude-pro) | ¥139.84 | 315 | 268 |
-| [Grok Premium](https://aiprice.club/market/category/grok-premium) | ¥100.00 | 312 | 511 |
-| [GPT Go](https://aiprice.club/market/category/gpt-go) | ¥19.50 | 325 | 539 |
-| [Claude Max 5x](https://aiprice.club/market/category/claude-max-5x) | ¥490.00 | 268 | 452 |
-| [Grok Ultra](https://aiprice.club/market/category/grok-ultra) | ¥435.00 | 255 | 459 |
-| [Grok Plus](https://aiprice.club/market/category/grok-plus) | ¥37.90 | 261 | 392 |
-| [Gemini](https://aiprice.club/market/category/gemini) | ¥5.00 | 227 | 260 |
-| [Gemini Ultra 20x](https://aiprice.club/market/category/gemini-ultra-20x) | ¥153.50 | 187 | 368 |
-| [Claude Max 20x](https://aiprice.club/market/category/claude-max-20x) | ¥1050.00 | 217 | 396 |
-| [Grok Super](https://aiprice.club/market/category/grok-super) | ¥250.95 | 234 | 367 |
-| [Gemini Ultra 5x](https://aiprice.club/market/category/gemini-ultra-5x) | ¥144.00 | 201 | 382 |
-| [Cursor](https://aiprice.club/market/category/cursor) | ¥20.00 | 159 | 277 |
-| [Claude Free](https://aiprice.club/market/category/claude-free) | ¥0.75 | 158 | 267 |
-| [Gemini Plus](https://aiprice.club/market/category/gemini-plus) | ¥1.00 | 168 | 240 |
-| [TikTok](https://aiprice.club/market/category/tiktok) | ¥1.09 | 67 | 186 |
-| [Grok Free](https://aiprice.club/market/category/grok-free) | ¥0.02 | 131 | 118 |
-| [虚拟卡](https://aiprice.club/market/category/vcc) | ¥16.00 | 67 | 156 |
-| [Apple ID](https://aiprice.club/market/category/apple-id) | ¥2.00 | 32 | 128 |
-| [Claude](https://aiprice.club/market/category/claude) | ¥19.99 | 90 | 111 |
-| [X](https://aiprice.club/market/category/x) | ¥0.40 | 55 | 71 |
-| [SuperGrok Heavy](https://aiprice.club/market/category/supergrok-heavy) | ¥345.00 | 40 | 9 |
-| [Telegram](https://aiprice.club/market/category/telegram) | ¥0.18 | 34 | 78 |
-| [Grok](https://aiprice.club/market/category/grok) | ¥0.06 | 36 | 44 |
-| [Claude Max](https://aiprice.club/market/category/claude-max-5x) | ¥288.00 | 22 | 18 |
-| [Claude Team](https://aiprice.club/market/category/claude-team) | ¥1431.00 | 10 | 8 |
-| [PayPal](https://aiprice.club/market/category/paypal) | ¥8.00 | 10 | 2 |
-| [X Premium](https://aiprice.club/market/category/x-premium) | ¥65.00 | 5 | 6 |
-| [Copilot](https://aiprice.club/market/category/copilot) | ¥1.00 | 4 | 6 |
+| [GPT Plus](https://aiprice.club/market/category/gpt-plus) | ¥14.49 | 1291 | 8696 |
+| [接码](https://aiprice.club/market/category/phone-verification) | ¥0.01 | 959 | 6585 |
+| [中转站](https://aiprice.club/market/category/api-gateway) | ¥7.70 | 916 | 4915 |
+| [GPT Pro 100](https://aiprice.club/market/category/gpt-pro-100) | ¥399.00 | 934 | 3248 |
+| [GPT Pro 200](https://aiprice.club/market/category/gpt-pro-200) | ¥590.00 | 934 | 3076 |
+| [Gmail](https://aiprice.club/market/category/gmail) | ¥0.02 | 582 | 1868 |
+| [GPT Team](https://aiprice.club/market/category/gpt-team) | ¥8.18 | 464 | 1327 |
+| [Outlook](https://aiprice.club/market/category/outlook) | ¥0.02 | 395 | 1483 |
+| [Gemini Pro](https://aiprice.club/market/category/gemini-pro) | ¥15.00 | 525 | 711 |
+| [Muse](https://aiprice.club/market/category/muse) | ¥0.02 | 360 | 1155 |
+| [GPT Free](https://aiprice.club/market/category/gpt-free) | ¥0.02 | 339 | 1179 |
+| [KYC](https://aiprice.club/market/category/kyc) | ¥52.80 | 274 | 1159 |
+| [GPT](https://aiprice.club/market/category/gpt) | ¥6.80 | 362 | 1150 |
+| [GPT Team 5x](https://aiprice.club/market/category/gpt-team-5x) | ¥20.00 | 253 | 546 |
+| [GPT Pro 500](https://aiprice.club/market/category/gpt-pro-500) | ¥1399.00 | 405 | 1078 |
+| [iCloud 邮箱](https://aiprice.club/market/category/icloud) | ¥0.02 | 294 | 631 |
+| [Claude Pro](https://aiprice.club/market/category/claude-pro) | ¥139.85 | 327 | 326 |
+| [GPT Go](https://aiprice.club/market/category/gpt-go) | ¥18.75 | 362 | 697 |
+| [Grok Premium](https://aiprice.club/market/category/grok-premium) | ¥100.00 | 322 | 478 |
+| [Gemini Ultra 20x](https://aiprice.club/market/category/gemini-ultra-20x) | ¥176.00 | 262 | 547 |
+| [Claude Max 5x](https://aiprice.club/market/category/claude-max-5x) | ¥720.00 | 278 | 520 |
+| [Grok Plus](https://aiprice.club/market/category/grok-plus) | ¥50.00 | 299 | 502 |
+| [Gemini Ultra 5x](https://aiprice.club/market/category/gemini-ultra-5x) | ¥146.00 | 261 | 521 |
+| [Grok Ultra](https://aiprice.club/market/category/grok-ultra) | ¥435.00 | 247 | 418 |
+| [Gemini](https://aiprice.club/market/category/gemini) | ¥5.00 | 250 | 271 |
+| [Claude Max 20x](https://aiprice.club/market/category/claude-max-20x) | ¥1050.00 | 226 | 449 |
+| [Grok Super](https://aiprice.club/market/category/grok-super) | ¥250.95 | 235 | 367 |
+| [Claude Free](https://aiprice.club/market/category/claude-free) | ¥1.78 | 165 | 293 |
+| [Cursor](https://aiprice.club/market/category/cursor) | ¥28.00 | 161 | 265 |
+| [Gemini Plus](https://aiprice.club/market/category/gemini-plus) | ¥1.00 | 175 | 103 |
+| [TikTok](https://aiprice.club/market/category/tiktok) | ¥1.38 | 72 | 188 |
+| [虚拟卡](https://aiprice.club/market/category/vcc) | ¥16.00 | 76 | 175 |
+| [Grok Free](https://aiprice.club/market/category/grok-free) | ¥0.02 | 135 | 125 |
+| [Apple ID](https://aiprice.club/market/category/apple-id) | ¥1.10 | 38 | 137 |
+| [Claude](https://aiprice.club/market/category/claude) | ¥19.99 | 88 | 121 |
+| [X](https://aiprice.club/market/category/x) | ¥0.40 | 62 | 96 |
+| [Telegram](https://aiprice.club/market/category/telegram) | ¥0.18 | 39 | 89 |
+| [SuperGrok Heavy](https://aiprice.club/market/category/supergrok-heavy) | ¥345.00 | 38 | 9 |
+| [Grok](https://aiprice.club/market/category/grok) | ¥0.06 | 38 | 48 |
+| [Claude Max](https://aiprice.club/market/category/claude-max-5x) | ¥9.50 | 24 | 20 |
+| [Claude Team](https://aiprice.club/market/category/claude-team) | ¥1298.00 | 14 | 11 |
+| [PayPal](https://aiprice.club/market/category/paypal) | ¥8.00 | 12 | 3 |
+| [Copilot](https://aiprice.club/market/category/copilot) | ¥1.00 | 6 | 8 |
+| [X Premium](https://aiprice.club/market/category/x-premium) | ¥65.00 | 4 | 6 |
 | [SuperGrok Lite](https://aiprice.club/market/category/supergrok-lite) | ¥998.00 | 2 | 2 |
 
-## AI 官方订阅哪个地区最便宜（2026-11-27）
+## AI 官方订阅哪个地区最便宜（2026-11-28）
 
 官网直购价和 App Store 内购价，按当日汇率折算人民币。
 
 | 订阅 | 美区 | 最便宜地区 | 地区数 |
 | --- | --- | --- | --- |
 | [GPT Go](https://aiprice.club/official-price/gpt-go) | $8.00（约 ¥53） | 埃及官网 EGP 220.00（约 ¥27） | 233 |
-| [GPT Plus](https://aiprice.club/official-price/gpt-plus) | $20.00（约 ¥133） | 菲律宾 App Store ₱ 999.00（约 ¥105） | 233 |
-| [GPT Pro 100 (GPT Pro 5x)](https://aiprice.club/official-price/gpt-pro-100) | $100.00（约 ¥667） | 墨西哥官网 MX$1,700.00（约 ¥576） | 233 |
-| [GPT Pro 200 (GPT Pro 20x)](https://aiprice.club/official-price/gpt-pro-200) | $200.00（约 ¥1335） | 菲律宾官网 ₱9,990.00（约 ¥1046） | 233 |
-| [GPT Pro 500](https://aiprice.club/official-price/gpt-pro-500) | $500.00（约 ¥3337） | 墨西哥官网 MX$8,500.00（约 ¥2881） | 233 |
+| [GPT Plus](https://aiprice.club/official-price/gpt-plus) | $20.00（约 ¥133） | 菲律宾 App Store ₱ 999.00（约 ¥104） | 233 |
+| [GPT Pro 100 (GPT Pro 5x)](https://aiprice.club/official-price/gpt-pro-100) | $100.00（约 ¥667） | 墨西哥官网 MX$1,700.00（约 ¥578） | 233 |
+| [GPT Pro 200 (GPT Pro 20x)](https://aiprice.club/official-price/gpt-pro-200) | $200.00（约 ¥1334） | 菲律宾 App Store ₱ 9,990.00（约 ¥1045） | 233 |
+| [GPT Pro 500](https://aiprice.club/official-price/gpt-pro-500) | $500.00（约 ¥3335） | 墨西哥官网 MX$8,500.00（约 ¥2889） | 233 |
 | [Claude Pro](https://aiprice.club/official-price/claude-pro) | $20.00（约 ¥133） | 巴基斯坦 App Store Rs 4,900.00（约 ¥118） | 237 |
-| [Claude Max 5x (Max $100)](https://aiprice.club/official-price/claude-max-5x) | $100.00（约 ¥667） | 巴西官网 R$550.00（约 ¥637） | 237 |
-| [Claude Max 20x (Ultra)](https://aiprice.club/official-price/claude-max-20x) | $200.00（约 ¥1335） | 巴西官网 R$1,100.00（约 ¥1273） | 237 |
+| [Claude Max 5x (Max $100)](https://aiprice.club/official-price/claude-max-5x) | $100.00（约 ¥667） | 加拿大官网 CA$140.00（约 ¥656） | 237 |
+| [Claude Max 20x (Ultra)](https://aiprice.club/official-price/claude-max-20x) | $200.00（约 ¥1334） | 加拿大官网 CA$280.00（约 ¥1311） | 237 |
 | [Gemini Plus](https://aiprice.club/official-price/gemini-plus) | $4.99（约 ¥33） | 玻利维亚官网 BOB 34.99（约 ¥20） | 188 |
 | [Gemini Pro](https://aiprice.club/official-price/gemini-pro) | $19.99（约 ¥134） | 土耳其 App Store ₺539,99（约 ¥71） | 195 |
 | [Gemini Ultra 5x](https://aiprice.club/official-price/gemini-ultra-5x) | $99.99（约 ¥668） | 土耳其官网 TRY 1,479.99（约 ¥196） | 150 |
 | [Gemini Ultra 20x](https://aiprice.club/official-price/gemini-ultra-20x) | $199.99（约 ¥1336） | 玻利维亚官网 BOB 1,399.99（约 ¥802） | 195 |
 | [Grok Plus](https://aiprice.club/official-price/grok-plus) | $8.00（约 ¥53） | 美国官网 $8.00（约 ¥53） | 1 |
 | [Grok Premium (SuperGrok)](https://aiprice.club/official-price/grok-premium) | $30.00（约 ¥200） | 土耳其 App Store ₺1.299,99（约 ¥171） | 157 |
-| [Grok Super](https://aiprice.club/official-price/grok-super) | $100.00（约 ¥667） | 巴基斯坦 App Store Rs 24,900.00（约 ¥602） | 160 |
-| [Grok Ultra](https://aiprice.club/official-price/grok-ultra) | $200.00（约 ¥1335） | 美国官网 $200.00（约 ¥1335） | 1 |
-| [SuperGrok Heavy](https://aiprice.club/official-price/supergrok-heavy) | $300.00（约 ¥2002） | 菲律宾 App Store ₱ 14,990.00（约 ¥1569） | 132 |
+| [Grok Super](https://aiprice.club/official-price/grok-super) | $100.00（约 ¥667） | 巴基斯坦 App Store Rs 24,900.00（约 ¥600） | 160 |
+| [Grok Ultra](https://aiprice.club/official-price/grok-ultra) | $200.00（约 ¥1334） | 美国官网 $200.00（约 ¥1334） | 1 |
+| [SuperGrok Heavy](https://aiprice.club/official-price/supergrok-heavy) | $300.00（约 ¥2001） | 菲律宾 App Store ₱ 14,990.00（约 ¥1568） | 132 |
 | [SuperGrok Lite](https://aiprice.club/official-price/supergrok-lite) | $10.00（约 ¥67） | 埃及 App Store EGP 499.99（约 ¥61） | 159 |
 
 更多：[价格变动](https://aiprice.club/price-changes) · [大模型 API 官方价格对比](https://aiprice.club/llm-gateway/official-api-price) · [API 中转站价格榜](https://aiprice.club/llm-gateway) · [AI 订阅术语表](https://aiprice.club/glossary)
